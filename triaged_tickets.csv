@@ -1,0 +1,41 @@
+id,created_at,customer,subject,description,channel,status,resolved_at,category,priority,sla
+T003,2026-09-29 13:50,Customer 9,System down for all users,"Entire application not loading, urgent",chat,resolved,2026-09-30 17:24,Performance,P1,Breached
+T008,2026-09-28 02:50,Customer 6,Data loss after import,Records missing after CSV import,email,open,,General,P1,Breached
+T012,2026-09-28 01:50,Customer 6,System down for all users,"Entire application not loading, urgent",phone,resolved,2026-10-01 03:51,Performance,P1,Breached
+T017,2026-10-01 07:50,Customer 1,System down for all users,"Entire application not loading, urgent",phone,resolved,2026-10-03 07:09,Performance,P1,Breached
+T004,2026-09-28 04:50,Customer 11,Cannot login after password reset,User is locked out after resetting password,phone,resolved,2026-09-29 13:49,Login/Access,P2,Breached
+T010,2026-09-29 15:50,Customer 8,App crash on startup,Application crash after update,phone,open,,Bug/Error,P2,Breached
+T014,2026-09-29 17:50,Customer 8,App crash on startup,Application crash after update,chat,resolved,2026-10-01 07:27,Bug/Error,P2,Breached
+T016,2026-09-30 11:50,Customer 8,Error when saving record,"Error message appears, save failed",email,resolved,2026-10-02 16:49,Bug/Error,P2,Breached
+T037,2026-10-02 00:50,Customer 9,Cannot login after password reset,User is locked out after resetting password,chat,open,,Login/Access,P2,Breached
+T007,2026-09-28 05:50,Customer 3,Page is very slow,Dashboard timeout when opening reports,email,open,,Performance,P3,Breached
+T019,2026-09-30 02:50,Customer 6,Page is very slow,Dashboard timeout when opening reports,email,open,,Performance,P3,Breached
+T027,2026-09-28 17:50,Customer 11,Invoice total is wrong,VAT amount incorrect on invoice,phone,open,,Billing/Invoice,P3,Breached
+T036,2026-09-29 02:50,Customer 3,Page is very slow,Dashboard timeout when opening reports,phone,open,,Performance,P3,Breached
+T038,2026-09-28 09:50,Customer 9,Invoice total is wrong,VAT amount incorrect on invoice,chat,open,,Billing/Invoice,P3,Breached
+T015,2026-10-03 09:50,Customer 10,Cannot login after password reset,User is locked out after resetting password,chat,open,,Login/Access,P2,At Risk
+T002,2026-10-03 14:50,Customer 4,Error when saving record,"Error message appears, save failed",email,open,,Bug/Error,P2,On Track
+T021,2026-10-02 19:50,Customer 7,Page is very slow,Dashboard timeout when opening reports,chat,open,,Performance,P3,On Track
+T013,2026-10-01 03:50,Customer 2,Receipt print is blank,Print shows empty page,email,open,,Billing/Invoice,P4,On Track
+T018,2026-09-30 21:50,Customer 11,Refund request for duplicate bill,Customer charged twice on one bill,chat,open,,Billing/Invoice,P4,On Track
+T033,2026-10-01 12:50,Customer 10,Question about report colors,Can the colors be changed?,chat,open,,Performance,P4,On Track
+T039,2026-10-03 05:50,Customer 5,Question about report colors,Can the colors be changed?,phone,open,,Performance,P4,On Track
+T001,2026-10-02 14:50,Customer 9,Error when saving record,"Error message appears, save failed",email,resolved,2026-10-02 17:14,Bug/Error,P2,Met
+T005,2026-09-28 01:50,Customer 4,Cannot login after password reset,User is locked out after resetting password,email,resolved,2026-09-28 09:42,Login/Access,P2,Met
+T006,2026-10-02 18:50,Customer 2,App crash on startup,Application crash after update,phone,resolved,2026-10-03 00:27,Bug/Error,P2,Met
+T009,2026-10-03 12:50,Customer 8,App crash on startup,Application crash after update,phone,resolved,2026-10-04 00:10,Bug/Error,P2,Met
+T026,2026-10-02 15:50,Customer 10,Cannot login after password reset,User is locked out after resetting password,chat,resolved,2026-10-03 06:33,Login/Access,P2,Met
+T030,2026-10-02 04:50,Customer 3,Cannot login after password reset,User is locked out after resetting password,email,resolved,2026-10-02 15:40,Login/Access,P2,Met
+T031,2026-10-03 15:50,Customer 9,Error when saving record,"Error message appears, save failed",email,resolved,2026-10-04 00:33,Bug/Error,P2,Met
+T032,2026-10-03 22:50,Customer 7,Error when saving record,"Error message appears, save failed",email,resolved,2026-10-04 00:53,Bug/Error,P2,Met
+T040,2026-10-02 10:50,Customer 9,Error when saving record,"Error message appears, save failed",phone,resolved,2026-10-02 21:01,Bug/Error,P2,Met
+T025,2026-10-04 01:50,Customer 5,Payment not showing,Customer payment missing from ledger,chat,resolved,2026-10-04 04:59,Billing/Invoice,P3,Met
+T011,2026-09-30 08:50,Customer 12,Receipt print is blank,Print shows empty page,email,resolved,2026-10-03 11:36,Billing/Invoice,P4,Met
+T020,2026-09-30 10:50,Customer 1,Receipt print is blank,Print shows empty page,email,resolved,2026-09-30 22:03,Billing/Invoice,P4,Met
+T022,2026-10-03 08:50,Customer 5,Receipt print is blank,Print shows empty page,email,resolved,2026-10-03 17:58,Billing/Invoice,P4,Met
+T023,2026-09-28 08:50,Customer 6,How to add a new user,Need a guide for account setup,phone,resolved,2026-09-30 20:06,How-to,P4,Met
+T024,2026-10-01 17:50,Customer 4,How to add a new user,Need a guide for account setup,phone,resolved,2026-10-02 04:59,How-to,P4,Met
+T028,2026-10-03 15:50,Customer 11,Refund request for duplicate bill,Customer charged twice on one bill,phone,resolved,2026-10-04 04:57,Billing/Invoice,P4,Met
+T029,2026-09-29 23:50,Customer 11,How to add a new user,Need a guide for account setup,chat,resolved,2026-09-30 10:56,How-to,P4,Met
+T034,2026-10-02 21:50,Customer 8,Receipt print is blank,Print shows empty page,chat,resolved,2026-10-03 14:11,Billing/Invoice,P4,Met
+T035,2026-09-30 21:50,Customer 6,Receipt print is blank,Print shows empty page,phone,resolved,2026-10-01 06:33,Billing/Invoice,P4,Met
